@@ -13,7 +13,7 @@ givenName = givenName;
 // Q: What is `givenName` set to now?
 // A: Brett
 
-console .log( "Hello," + " " + givenName + " " + "how are you" + "?");
+console.log( "Hello," + " " + givenName + " " + "how are you" + "?");
 
 /*=========================================================
   Part 2: Simple Math
@@ -31,10 +31,10 @@ console .log( "Hello," + " " + givenName + " " + "how are you" + "?");
 
  // Using the `high` & `low` Variables, work through each of the 4 math operators below and log the answers to the console.
  // Write Code Below:
-console .log (high - 5);
-console .log (high + 5);
-console .log (low - 5);
-console .log (low + 5);
+console.log (high - 5);
+console.log (high + 5);
+console.log (low - 5);
+console.log (low + 5);
 
 /* =========================================================
      Part 3: Expressions
@@ -58,12 +58,12 @@ console .log (low + 5);
     // Final Statement
     var statement = yourName + " is taking a class at The Iron Yard, my instructor's name is " + instructorName;
 
-    console .log (yourName + " " + "is taking a class at the iron yard, my instructor's name is" + " " + instructorName);
+    console.log (yourName + " " + "is taking a class at the iron yard, my instructor's name is" + " " + instructorName);
 
 
   var firstName = "Julia";
    var lastName = "Roberts";
-   var fullName = firstName + lastName;
+   var fullName = firstName + " " + lastName;
 
    console.log(fullName);
 
