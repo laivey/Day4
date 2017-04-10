@@ -32,6 +32,9 @@ console .log( "Hello," + " " + givenName + " " + "how are you" + "?");
  // Using the `high` & `low` Variables, work through each of the 4 math operators below and log the answers to the console.
  // Write Code Below:
 console .log (high - 5);
+console .log (high + 5);
+console .log (low - 5);
+console .log (low + 5);
 
 /* =========================================================
      Part 3: Expressions
